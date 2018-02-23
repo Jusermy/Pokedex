@@ -1,0 +1,8 @@
+Al inicio de la aplicacion la pagina cargará la lista de la primera región de los Pokemon, Kanto.
+Después y de seguido, cargará los diferentes tipos que hay.
+Tras esto, si se posa el ratón en el nombre de un pokemon se mostrará la imagen de este.
+
+Esto es lo unico que puede hacer ahora ya que la mitad del codigo se me borró al cambiar de programas de 
+procesador de texto (al cambiar entre el Express for Web y el notepad, este último preguntó si queria actualizar
+datos del archivo y le di a que no y de seguido a quitar).
+Le entrego lo que tengo, al menos para que vea que he intentado trabajar en la api.
